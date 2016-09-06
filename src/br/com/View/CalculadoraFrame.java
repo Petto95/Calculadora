@@ -23,7 +23,7 @@ import java.awt.event.ActionEvent;
 public class CalculadoraFrame extends JFrame {
 
 	/**
-	 * 
+	 * @author Renato Pijanowski
 	 */
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
