@@ -83,27 +83,27 @@ public class CalculadoraFrame extends JFrame {
 		
 		JButton bt7 = new JButton("7");
 		bt7.setBounds(22, 134, 43, 35);
-		bt7.setToolTipText("7");
+		bt7.setToolTipText("Seven");
 		panel.add(bt7);
 		
 		JButton bt8 = new JButton("8");
 		bt8.setBounds(77, 134, 43, 35);
-		bt8.setToolTipText("8");
+		bt8.setToolTipText("Eight");
 		panel.add(bt8);
 		
 		JButton bt9 = new JButton("9");
 		bt9.setBounds(132, 134, 43, 35);
-		bt9.setToolTipText("9");
+		bt9.setToolTipText("Nine");
 		panel.add(bt9);
 		
 		JButton bt4 = new JButton("4");
 		bt4.setBounds(22, 181, 43, 35);
-		bt4.setToolTipText("4");
+		bt4.setToolTipText("Four");
 		panel.add(bt4);
 		
 		JButton bt5 = new JButton("5");
 		bt5.setBounds(77, 181, 43, 35);
-		bt5.setToolTipText("5");
+		bt5.setToolTipText("Five");
 		panel.add(bt5);
 		
 		JButton bt6 = new JButton("6");
@@ -113,32 +113,32 @@ public class CalculadoraFrame extends JFrame {
 		
 		JButton bt1 = new JButton("1");
 		bt1.setBounds(22, 228, 43, 35);
-		bt1.setToolTipText("1");
+		bt1.setToolTipText("One");
 		panel.add(bt1);
 		
 		JButton bt2 = new JButton("2");
-		bt2.setToolTipText("2");
+		bt2.setToolTipText("Two");
 		bt2.setBounds(77, 228, 43, 35);
 		panel.add(bt2);
 		
 		JButton bt3 = new JButton("3");
 		bt3.setBounds(132, 228, 43, 35);
-		bt3.setToolTipText("3");
+		bt3.setToolTipText("Three");
 		panel.add(bt3);
 		
 		JButton bt0 = new JButton("0");
 		bt0.setBounds(187, 228, 43, 35);
-		bt0.setToolTipText("0");
+		bt0.setToolTipText("Zero");
 		panel.add(bt0);
 		
 		JButton btDot = new JButton(".");
 		btDot.setBounds(187, 181, 43, 35);
-		btDot.setToolTipText("Dot");
+		//btDot.setToolTipText("Dot");
 		panel.add(btDot);
 		
 		JButton btEqual = new JButton("=");
 		btEqual.setBounds(302, 134, 43, 35);
-		btEqual.setToolTipText("Equal");
+		btEqual.setToolTipText("Enter");
 		panel.add(btEqual);
 		
 		JButton btPercentage = new JButton("%");
@@ -148,17 +148,17 @@ public class CalculadoraFrame extends JFrame {
 		
 		JButton btDivision = new JButton("/");
 		btDivision.setBounds(302, 181, 43, 35);
-		btDivision.setToolTipText("Division");
+		btDivision.setToolTipText("Divide");
 		panel.add(btDivision);
 		
 		JButton btMulti = new JButton("*");
 		btMulti.setBounds(242, 228, 43, 35);
-		btMulti.setToolTipText("Multiplication");
+		btMulti.setToolTipText("Multiply");
 		panel.add(btMulti);
 		
 		JButton btMinus = new JButton("-");
 		btMinus.setBounds(242, 181, 43, 35);
-		btMinus.setToolTipText("Minus");
+		btMinus.setToolTipText("Subtract");
 		panel.add(btMinus);
 		
 		JButton btSqrt = new JButton("Sqrt");
@@ -186,7 +186,7 @@ public class CalculadoraFrame extends JFrame {
 		
 		JButton btAddition = new JButton("+");
 		btAddition.setBounds(187, 134, 43, 35);
-		btAddition.setToolTipText("Addition");
+		btAddition.setToolTipText("Sum");
 		panel.add(btAddition);
 		
 		JButton btOff = new JButton("Q");
